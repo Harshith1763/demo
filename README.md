@@ -1,4 +1,5 @@
 # demo
 this is just a trial
 
-author : Harshith
+author : Harshith Gowda
+
