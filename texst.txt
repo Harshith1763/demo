@@ -1,1 +1,4 @@
 hello there i am just updating this file and adding this file intoo git today 
+git add .
+git commit -m 'changes made"
+git push origin main
